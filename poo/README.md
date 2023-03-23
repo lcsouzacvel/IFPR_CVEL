@@ -8,5 +8,4 @@
    * 2° Técnologia Analise e Desenvolvimento de Sistemas   
 **********************
 ## Notebook Teste - AtvTeste
-
-> Coloque um link para o arquivo do notebook com a resolução da atividade teste. Ela estará dentro da pasta `notebook`.
+[AtvTeste](https://github.com/lcsouzacvel/IFPR_CVEL/blob/main/poo/AtvTeste/nootebook/AtividadeTeste.ipynb)
