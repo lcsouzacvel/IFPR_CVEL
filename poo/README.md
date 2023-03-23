@@ -1,5 +1,3 @@
-# Apresentação do Aluno
-**********************
 # Aluno
    * Luiz Carlos de Souza
 **********************
