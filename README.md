@@ -1,12 +1,12 @@
-# Apresentação do Aluno
+### Apresentação do Aluno
 **********************
-# Aluno
+#### Aluno
    * Luiz Carlos de Souza
 **********************
-## Curso
+##### Curso
    * 2° Técnologia Analise e Desenvolvimento de Sistemas   
 **********************
-## Disciplinas
+### Disciplinas
 
 * [2023TADS-Poo](https://github.com/lcsouzacvel/IFPR_CVEL/blob/main/poo/README.md)
 * Web
