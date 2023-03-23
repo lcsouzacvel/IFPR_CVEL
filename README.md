@@ -8,7 +8,7 @@
 **********************
 ## Disciplinas
 
-* Poo
+* [2023TADS-Poo](https://github.com/lcsouzacvel/IFPR_CVEL/blob/main/poo/README.md)
 * Web
 * Redes
 * Algoritimos
