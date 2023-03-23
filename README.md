@@ -18,5 +18,3 @@
 * Projeto integrador
 * Metodologia e pesquisa ciêntifica
  
-
-# IFPR_CVEL
