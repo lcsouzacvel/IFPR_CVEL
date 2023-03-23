@@ -1,13 +1,3 @@
-# Apresentação do Aluno
-**********************
-# Aluno
+# Arquivo AtvTeste
    * Luiz Carlos de Souza
-## Curso
-**********************
-   * 2° Técnologia Analise e Desenvolvimento de Sistemas   
-## Disciplina
-**********************
-  * ### Programação Orientada a Objetos 
-
-## CODIGO
- 
+## Arquivo  utilizado para saída solicitada na atividade 
