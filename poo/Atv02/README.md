@@ -20,7 +20,7 @@ Item 3 - Demonstrar a execução do cálculo e utilizar um comentário para afir
  Aluno:Luiz Carlos de Souza
  Data da criação:11/04/2023 
  
-##Codigo 
+###Codigo 
 import java.util.Scanner; // Importação da classe Scanner do pacote java.util para ler os valores digitados.
 
 public class Atv02{
