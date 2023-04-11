@@ -11,9 +11,9 @@ Apresente a soma de todos os argumentos inteiros ou reais recebidos
  
 Atv02
 
-Item 1 - Exibir a mensagem “Informe um inteiro: “, deixando o cursor na mesma linha
+Item 1 - Exibir a mensagem “Informe um inteiro: “, deixando o cursor na mesma linha.
 
-Item 2 - Atribuir o produto das variáveis b e c para a variável a
+Item 2 - Atribuir o produto das variáveis b e c para a variável a.
 
 Item 3 - Demonstrar a execução do cálculo e utilizar um comentário para afirmar que é um programa de exemplo de folha de pagamento.
 

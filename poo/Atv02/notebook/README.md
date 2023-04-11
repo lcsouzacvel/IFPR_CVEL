@@ -1,6 +1,6 @@
 # Atv02
    
-#### Exibir a mensagem “Informe um inteiro: “, deixando o cursor na mesma linha
+#### Exibir a mensagem “Informe um inteiro: “,  deixando o cursor na mesma linha
 
 #### Atribuir o produto das variáveis b e c para a variável a
 
