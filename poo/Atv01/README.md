@@ -6,13 +6,14 @@ Atv01
 Apresente a soma de todos os argumentos inteiros ou reais recebidos
 					
 #### Código Comentado:
-/*
+
  Atividade Atv01 onde sera aperesentado a soma de n termos 
  IFPR - Campus Cascavel
  Disciplina:Programação Orientada à Objetos
  Aluno:Luiz Carlos de Souza
  Data da criação:11/04/2023 
- */
+ 
+##Codigo 
 
 import java.util.Scanner; // Importação da classe Scanner do pacote java.util para ler os valores digitados
 import java.io.IOException; // Importação da classe IOException para tratar exeções
