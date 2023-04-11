@@ -3,7 +3,7 @@
 
 Atv02
 
-Apresente a soma de todos os argumentos inteiros ou reais recebidos
+Apresente a soma de todos os argumentos inteiros ou reais recebidos.
 					
 #### Código Comentado:
 
