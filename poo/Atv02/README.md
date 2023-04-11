@@ -23,5 +23,27 @@ Item 3 - Demonstrar a execução do cálculo e utilizar um comentário para afir
  Data da criação:11/04/2023 
  
 ##Codigo 
+import java.util.Scanner; // Importação da classe Scanner do pacote java.util para ler os valores digitados.
 
+public class Atv02{
+    public static void main(String arg[]){
+        Scanner leitura = new Scanner(System.in); // recebe os valores de entrada no objeto tipo Scanner "leitura".
+        
+        System.out.print("Informe um Inteiro:");// solicita a entrada de um valor inteiro e permanece na mesma linha por causa do print sem o ln.
+        int b = leitura.nextInt();// utilizando o objeto do tipo Scanner leitura atribui o valor a variável b.
 
+        System.out.print("Informe um Inteiro:");// solicita a entrada de um valor inteiro e permanece na mesma linha por causa do print sem o ln.
+        int c = leitura.nextInt();// utilizando o objeto do tipo Scanner leitura atribui o valor a variável c.
+        
+        int a = b * c; // realiza o calculo entre b x c onde o resultado é armazenado em a.
+        
+        System.out.printf("Resultado entre produto %d X %d = %d", b, c, a);
+        
+        // programa executa um cálculo de exemplo de folha de pagamento
+        
+        
+        leitura.close();
+
+    }
+
+}
