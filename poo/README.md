@@ -29,9 +29,3 @@
 
 #### Notebook - Atv03
 [Atv03](https://github.com/lcsouzacvel/IFPR_CVEL/blob/main/poo/Atv03/notebook/Atv03.ipynb)
-
-<<<<<<< HEAD
-[Atv02](https://github.com/lcsouzacvel/IFPR_CVEL/blob/main/poo/Atv02/notebook/Atv02.ipynb)
-        
-=======
->>>>>>> e54d159 (Atualização Atv03)
