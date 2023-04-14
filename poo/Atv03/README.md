@@ -14,8 +14,10 @@
  Data da criação:11/04/2023 
  
 #### Código Comentado:
+// imoortande biblioteca JOptionPane para abrir janelas
 
 import javax.swing.JOptionPane;
+
 
 public class Atv03{
     public static void main(String args[]){
@@ -42,6 +44,7 @@ public class Atv03{
         
         // mostrando a mensagem na tela com JOptionpane
         JOptionPane.showMessageDialog(null,"Nota 1:"+ p1 +"Nota 2:"+ p2 +"Trablho:"+ t1 +"Média notas foi="+ media);
+        System.exit(0);
 
 
 
