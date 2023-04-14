@@ -8,13 +8,13 @@
 * Item 2 - Calcule a média
 * Item 3 - Mostre a média usando o showMessageDialog da classe JOptionPane
 
- IFPR - Campus Cascavel
- Disciplina:Programação Orientada à Objetos
- Aluno:Luiz Carlos de Souza
- Data da criação:11/04/2023 
+###### IFPR - Campus Cascavel
+###### Disciplina:Programação Orientada à Objetos
+###### Aluno:Luiz Carlos de Souza
+###### Data da criação:11/04/2023 
  
 #### Código Comentado:
-// imoortande biblioteca JOptionPane para abrir janelas
+// importando biblioteca JOptionPane para abrir janelas
 
 import javax.swing.JOptionPane;
 

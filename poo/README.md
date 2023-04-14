@@ -20,3 +20,6 @@
 
 ### Notebook - Atv03
 [Atv03](https://github.com/lcsouzacvel/IFPR_CVEL/blob/main/poo/Atv03/notebook/Atv03.ipynb)
+
+### Notebook - Atv04
+[Atv04](https://github.com/lcsouzacvel/IFPR_CVEL/blob/main/poo/Atv04/notebook/Atv04.ipynb)
