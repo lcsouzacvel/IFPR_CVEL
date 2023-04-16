@@ -26,3 +26,6 @@
 
 ### Notebook - Atv05
 [Atv05](https://github.com/lcsouzacvel/IFPR_CVEL/blob/main/poo/Atv05/notebook/Atv05.ipynb)
+
+### Notebook - Atv06
+[Atv06](https://github.com/lcsouzacvel/IFPR_CVEL/blob/main/poo/Atv06/README.md)
